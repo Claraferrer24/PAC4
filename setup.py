@@ -6,7 +6,7 @@ setup(
     description="Projecte per analitzar i processar dades de ciclistes participants a Orbea Monegros.",
     author="Clara Ferrer",
     author_email="cferrer4@uoc.edu",
-    url="https://github.com/clara-ferrer/ciclistes_analysis",
+    url="https://github.com/Claraferrer24/PAC4.git",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
